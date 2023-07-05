@@ -1,14 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/tmxkn1/microsoft-reward-chrome-ext/badge)](https://www.codefactor.io/repository/github/tmxkn1/microsoft-reward-chrome-ext)
 
-# Microsoft Rewards Bot
-
-A Chrome extension for Microsoft Rewards, which automatically clears PC, mobile and Edge search quests and displays daily point countdown.
-
-This extension will not clear any promotional link or quiz quests and this feature will not be implemented.
-
-**This is a bot!**
-
-Use at your own risk. I do not take responsibility for any consequence caused by this extension.
 
 # Install from GitHub
 
